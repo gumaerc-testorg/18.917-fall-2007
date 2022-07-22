@@ -5,6 +5,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture34.pdf
 uid: 0f66a3c9-3d18-c772-9c7e-88b092033c6b
 ---
 Lecture notes quaternionic projective space.
-

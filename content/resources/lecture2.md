@@ -6,6 +6,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture2.pdf
 uid: 46c2e62c-9fe4-7300-96ed-92d58d85783b
 ---
 Lecture notes on Steenrod operations, their basic properties, and the homotopy theory of cochain complexes
-

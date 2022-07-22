@@ -5,6 +5,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture11.pdf
 uid: 127a67ca-bc1f-4eab-85d6-ecfbc8351bf0
 ---
 Lecture notes on tensor products and algebras.
-

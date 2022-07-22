@@ -5,6 +5,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21.pdf
 uid: f2cf67b2-ff4a-328a-1bb8-81e079146d38
 ---
 Lecture notes on free E8-algebras.
-

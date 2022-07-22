@@ -5,6 +5,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture37.pdf
 uid: 5c8ef4d8-cd38-530d-9dc7-c6a5a95ac852
 ---
 Lecture notes on the Krull filtration.
-

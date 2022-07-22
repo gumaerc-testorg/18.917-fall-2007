@@ -5,6 +5,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture31.pdf
 uid: fd4a66ba-0a44-ac67-4dae-77d8b031c12d
 ---
 Lecture notes on p-profinite completion of spaces.
-

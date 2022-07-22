@@ -5,6 +5,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture6.pdf
 uid: e486b9e1-fd55-82e6-5ce7-403b933d9f39
 ---
 Lecture notes on admissible monomials, Steenrod algebra, and Adem relations.
-

@@ -6,6 +6,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture32.pdf
 uid: 17958e77-32b0-801e-dd56-1637e19ea6cf
 ---
 Lecture notes on the arithmetic square, abelian groups, and the rationalization of topological spaces.
-

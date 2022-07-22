@@ -6,6 +6,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 1cbd4d60-46d3-bdb8-0ec4-1589c9a30626
 ---
 Lecture notes on the Frobenius morphism and the basic features of the category U of unstable modules over the Steenrod algebra A.
-

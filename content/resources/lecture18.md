@@ -6,6 +6,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture18.pdf
 uid: 5394f1ef-b5a9-8e79-43bc-17a6201b0c3d
 ---
 Lecture notes with an introduction to Lannes? T-functor and verification of some of its basic properties.
-

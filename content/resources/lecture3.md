@@ -7,6 +7,7 @@ file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture3.pdf
 uid: 863accc0-2cce-6a49-ef18-c5a930a4156f
 ---
 Lecture notes on algebraic topology, the basic properties of Steenrod operations, and proof of the Cartan formula which describes the interaction between Steenrod operations and multiplication in the cohomology of a space X.
-
