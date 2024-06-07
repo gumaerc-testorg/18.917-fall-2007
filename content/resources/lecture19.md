@@ -2,6 +2,7 @@
 content_type: resource
 description: lecture notes on the properties of Lannes? T-functor.
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/a978e588df8dc55563062ef6784539cc_lecture19.pdf
+file_size: 202715
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the Krull filtration.
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/5c8ef4d8cd38530d9dc7c6a5a95ac852_lecture37.pdf
+file_size: 212795
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
