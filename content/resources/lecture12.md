@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on free unstable algebras.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0ec7fc51eeffde4fef72d8592f0ff05b_lecture12.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0ec7fc51eeffde4fef72d8592f0ff05b_lecture12.pdf
 file_size: 229702
 file_type: application/pdf
 learning_resource_types:
