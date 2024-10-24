@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the category of p-profinite spaces.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2a356f2cca8a92beca30416838eb30b7_lecture26.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2a356f2cca8a92beca30416838eb30b7_lecture26.pdf
 file_size: 180764
 file_type: application/pdf
 learning_resource_types:
