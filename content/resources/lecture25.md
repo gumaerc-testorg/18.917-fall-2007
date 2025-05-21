@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on T and the cohomology of spaces.
-file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/68965ab3b9b15a2ec8489bc108f675cf_lecture25.pdf
+file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/68965ab3b9b15a2ec8489bc108f675cf_lecture25.pdf
 file_size: 214996
 file_type: application/pdf
 learning_resource_types:

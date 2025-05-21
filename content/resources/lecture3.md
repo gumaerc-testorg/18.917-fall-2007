@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on algebraic topology, the basic properties of Steenrod
   operations, and proof of the Cartan formula which describes the interaction between
   Steenrod operations and multiplication in the cohomology of a space X.
-file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/863accc02cce6a49ef18c5a930a4156f_lecture3.pdf
+file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/863accc02cce6a49ef18c5a930a4156f_lecture3.pdf
 file_size: 234255
 file_type: application/pdf
 learning_resource_types:
