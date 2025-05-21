@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on tensor products and algebras.
-file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/127a67cabc1f4eab85d6ecfbc8351bf0_lecture11.pdf
+file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/127a67cabc1f4eab85d6ecfbc8351bf0_lecture11.pdf
 file_size: 236706
 file_type: application/pdf
 learning_resource_types:
