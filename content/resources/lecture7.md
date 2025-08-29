@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on free unstable modules.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0b65ed5433a1570711db5113fe4576a0_lecture7.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0b65ed5433a1570711db5113fe4576a0_lecture7.pdf
 file_size: 238490
 file_type: application/pdf
 learning_resource_types:

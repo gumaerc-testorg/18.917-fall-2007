@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on generating analytic functors.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2ea8b21ce4498d757a261c7123784662_lecture10.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2ea8b21ce4498d757a261c7123784662_lecture10.pdf
 file_size: 228481
 file_type: application/pdf
 learning_resource_types:
