@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes quaternionic projective space.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0f66a3c93d18c7729c7e88b092033c6b_lecture34.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0f66a3c93d18c7729c7e88b092033c6b_lecture34.pdf
 file_size: 233456
 file_type: application/pdf
 learning_resource_types:
