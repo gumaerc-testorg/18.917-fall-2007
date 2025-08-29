@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on proof of the Adem relations.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/b24f6c293fad91e1a0bae626d689d886_lecture4.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/b24f6c293fad91e1a0bae626d689d886_lecture4.pdf
 file_size: 227351
 file_type: application/pdf
 learning_resource_types:

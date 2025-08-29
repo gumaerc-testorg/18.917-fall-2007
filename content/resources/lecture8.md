@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on a theorem of Gabriel-Kuhn-Popesco.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/bb74608e217ec50738557c33eaa40db3_lecture8.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/bb74608e217ec50738557c33eaa40db3_lecture8.pdf
 file_size: 198034
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on atomicity and the conceptual consequence of two important
   properties of Lannes?s T-functor.
-file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2b6eefd951d65db1f115ec5303c4fda8_lecture28.pdf
+file: /ol-ocw-studio-app/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2b6eefd951d65db1f115ec5303c4fda8_lecture28.pdf
 file_size: 223782
 file_type: application/pdf
 learning_resource_types:
