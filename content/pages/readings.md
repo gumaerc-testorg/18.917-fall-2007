@@ -126,7 +126,7 @@ Mandell, M. "E-infinity Algebras and _p_ -adic Homotopy Theory." _Topology_ 40 (
 31-32
 {{< tdclose >}}
 {{< tdopen >}}
-Geometric Topology: Localization, Periodicity and Galois Symmetry: The 1970 MIT Notes of Dennis Sullivan ([PDF - 1.3 MB](http://www.maths.ed.ac.uk/~aar/books/gtop.pdf))
+Geometric Topology: Localization, Periodicity and Galois Symmetry: The 1970 MIT Notes of Dennis Sullivan ({{% resource_link "07ee2a2b-5e4d-4752-8aab-7863f2f9d67a" "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
